@@ -1,0 +1,26 @@
+*{box-sizing: border-box;
+margin: 0px;
+padding: 0px;
+}
+h1{
+    color: black;
+}
+body{
+    margin: 20px;
+    background-color: rgb(254, 254, 198);
+    text-align: center;
+    
+}
+input{
+        border: 3px solid blue;
+        padding: 15px;
+        margin: 10px;
+
+}
+form{
+    display: flex;
+}
+.submit{
+    background-color: blueviolet;
+    color: black;
+}
